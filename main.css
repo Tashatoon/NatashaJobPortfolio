@@ -198,7 +198,7 @@ iframe {
     font-size: 1em;
     text-align: center;
     position: relative;
-    right: 3%;
+    right: 8%;
     list-style: none;
   }
   nav ul li a {
@@ -329,7 +329,7 @@ iframe {
     justify-content: space-around;
   }
   .projects {
-    padding: 10%;
+    
   }
   #work .projects {
     font-size: 2em;
@@ -431,8 +431,8 @@ iframe {
     grid-gap: 5%;
   }
   .projects img {
-    width: 600px;
-    height: 500px;
+    width: 300px;
+    height: 400px;
   }
   button {
     width: 20%;
