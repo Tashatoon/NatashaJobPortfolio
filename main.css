@@ -20,7 +20,7 @@ body {
   background-image: linear-gradient(rgb(50, 229, 83), rgb(103, 206, 161));
   background-image: linear-gradient(circle at top left, rgb(245, 42, 164), rgb(206, 154, 167), rgb(172, 224, 220));
   color: white;
-  padding: 25px;
+ 
 }
 .content-wrapper,
 .portfolio-header {
@@ -43,8 +43,8 @@ body {
   text-align: left;
 }
 .about-content-wrapper img {
-  border-radius: 5%;
   width: 40%;
+  border-radius: 50%;
 }
 
 nav {
@@ -58,7 +58,7 @@ nav ul li {
 }
 
 nav ul li a {
-  color: rgb(235, 155, 235);
+  color: rgb(213, 65, 213);
   font-size: 20px;
   text-decoration: none;
   text-transform: uppercase;
@@ -101,7 +101,7 @@ img {
   justify-content: center;
   margin: 0 auto;
   font-size: 2.5em;
-  color: rgb(233, 71, 233);
+  color: rgb(188, 41, 188);
 }
 .portfolio-header {
   margin-top: auto;
@@ -206,7 +206,7 @@ iframe {
   }
   .home-title {
     width: 100%;
-    padding: 30px 0 30px 0;
+
   }
   .home-title h2 {
     font-size: 3em;
@@ -251,9 +251,6 @@ iframe {
     margin: 0 auto;
   }
  
-  .projects {
-    padding: 10%;
-  }
   .projects img {
     width: 300px;
     height: 200px;
@@ -315,6 +312,7 @@ iframe {
   }
   .about-content-wrapper img {
     width: 80%;
+    border-radius: 50%;
     position: relative;
     left: 10%;
   }
@@ -340,7 +338,6 @@ iframe {
   
   .portfolio-header,
   .skills-header {
-    padding-top: 20%;
     text-align: center;
     margin: 0 auto;
   }
@@ -363,6 +360,7 @@ iframe {
   }
   .about-content-wrapper img {
     width: 90%;
+    border-radius: 50%;
   }
   .projects {
     width: 60%;
@@ -373,7 +371,6 @@ iframe {
   }
 
   button {
-    width: 25%;
     margin: auto;
     display: flex;
     justify-content: center;
@@ -458,7 +455,7 @@ iframe {
   }
   .portfolio-header,
   .skills-header {
-    padding-top: 20%;
+    padding-top: 5%;
     font-size: 6em;
     position: relative;
     top: -10%;
