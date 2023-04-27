@@ -90,7 +90,6 @@ img {
   font-size: 3.75em;
   margin-bottom: 0px;
 }
-/*format in acending order*/
 .project-link {
   display: block;
 }
@@ -108,8 +107,8 @@ img {
   text-align: center;
 }
 .projects img {
-  width: 900px;
-  height: 600px;
+  width: 600px;
+  height: 300px;
  
 }
 #work article {
@@ -123,7 +122,7 @@ img {
 }
 
 #work img {
-  width: 100%;
+  width: 90%;
 }
 
 button {
@@ -413,7 +412,7 @@ iframe {
   }
   .about-bio p {
     font-size: 1.8em;
-    line-height: 70px;
+    line-height: 60px;
   }
   
   .skill-items {
@@ -447,14 +446,14 @@ iframe {
   }
 
   .project-link button {
-    width: 75%;
+    width: 65%;
     position: relative;
     left: 20px;
   }
   .portfolio-header,
   .skills-header {
     padding-top: 5%;
-    font-size: 6em;
+    font-size: 4em;
     position: relative;
     top: -10%;
   }
