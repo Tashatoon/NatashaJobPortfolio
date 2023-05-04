@@ -446,9 +446,9 @@ iframe {
   }
 
   .project-link button {
-    width: 35%;
-    position: relative;
-    left: 20px;
+    font-size: large;
+    width: 15%;
+   
   }
   .portfolio-header,
   .skills-header {
