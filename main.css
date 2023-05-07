@@ -37,7 +37,7 @@ body {
 }
 .about-content-wrapper {
   justify-content: left; 
-  line-height: 33px;
+  line-height: 45px;
 }
 .about-bio {
   text-align: left;
@@ -230,8 +230,8 @@ iframe {
     font-size: 3em;
   }
   .about-bio p {
-    font-size: 2em;
-    line-height: 50px;
+    font-size: 1.3em;
+    line-height: 30px;
   }
 
   button {
@@ -321,7 +321,7 @@ iframe {
   }
   .about-bio p {
     font-size: 1.5em;
-    line-height: 10px;
+    line-height: 50px;
   }
   .skill-items {
     display: flex;
@@ -348,15 +348,15 @@ iframe {
 
 @media screen and (min-width: 768px) {
   .about-bio {
-    font-size: 1.5em;
-    line-height: 3%;
+    font-size: 1.3em;
+  line-height: 5px;
   }
   .about-content-wrapper {
     display: grid;
     grid-template-columns: auto auto;
   }
   .about-content-wrapper img {
-    width: 90%;
+    width: 100%;
     border-radius: 50%;
   }
   .projects {
@@ -411,7 +411,7 @@ iframe {
     font-size: 2em;
   }
   .about-bio p {
-    font-size: 1.2em;
+    font-size: 1.7em;
     line-height: 45px;
   }
   
